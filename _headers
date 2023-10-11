@@ -1,3 +1,4 @@
 /*
    X-Frame-Options: DENY 
    Cache-Control: no-cache, no-store, must-revalidate
+   Content-Security-Policy: frame-ancestors 'https://vul1--resonant-vacherin-a39a8d.netlify.app/'

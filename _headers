@@ -3,4 +3,4 @@
    Cache-Control: no-cache, no-store, must-revalidate, private
    Pragma: no-cache
    Expires: 0
-   Content-Security-Policy: frame-ancestors 'https://vul1--resonant-vacherin-a39a8d.netlify.app/'
+  // Content-Security-Policy: frame-ancestors 'https://vul1--resonant-vacherin-a39a8d.netlify.app/'
